@@ -9,6 +9,17 @@ Objective
 As an analytics lead, you must design an interactive dashboard that helps the director of the company make a decision on a new sales model (a subscription model) that will attract more gamers to our platform. There are multiple questions to be answered in order to make the decision on the subscription model. For example, which games need to be given for the subscription and what would be the duration? In order to answer these questions, a dashboard needs to be created.
 <br />
 
+<h2>Skills and Tools Covered</h2>
+- <b>Tableau Public Interface</b> 
+- <b>Creating Views adn Appropriate Charts</b>
+- <b>Data Filters and Their Application</b>
+- <b>Data Modification and Transformation using Calculations</b> 
+- <b>Quick Table Calculations</b>
+- <b>Parameters to Switch between Measures</b>
+- <b>Filter Actions to Navigate between Dashboards</b> 
+- <b>Dashboarding: Aesthetics</b>
+- <b>Saving and Publishing</b>
+
 
 <h2>Languages and Utilities Used</h2>
 
