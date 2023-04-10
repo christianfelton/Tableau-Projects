@@ -18,6 +18,8 @@ As an analytics lead, you must design an interactive dashboard that helps the di
 
 - <b>Mackbook</b>
 
+<h2>Link to Code </h2>
+<b>https://public.tableau.com/app/profile/christian.felton/viz/Project2--Felton/Project2--Felton?publish=yes</b> 
 
 <!--
  ```diff
