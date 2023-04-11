@@ -10,14 +10,23 @@ As an analytics lead, you must design an interactive dashboard that helps the di
 <br />
 
 <h2>Skills and Tools Covered</h2>
+
 - Tableau Public Interface</b> 
+
 - Creating Views adn Appropriate Charts</b>
+
 - Data Filters and Their Application</b>
+
 - Data Modification and Transformation using Calculations</b> 
+
 - Quick Table Calculations</b>
+
 - Parameters to Switch between Measures</b>
+
 - Filter Actions to Navigate between Dashboards</b> 
+
 - Dashboarding: Aesthetics</b>
+
 - Saving and Publishing</b>
 
 
